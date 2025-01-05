@@ -39,7 +39,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.comhaxcod/haxcod/output/snake-github-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haxcod/haxcod/output/snake-github-light.svg" />
-  <img src="https://raw.githubusercontent.com/haxcod/haxcod/output/snake-github-light.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/haxcod/output/snake-github-light.svg" alt="Snake animation" />
 </picture>
 
 ###
