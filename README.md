@@ -23,7 +23,7 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=iamashishrathaur&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamashishrathaur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haxcod&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=iamashishrathaur&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamashishrathaur&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div> 
@@ -31,15 +31,15 @@
 ###
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iamashishrathaur&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=haxcod&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ## 🐍 Snake Animation Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamashishrathaur/iamashishrathaur/output/snake-github-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamashishrathaur/iamashishrathaur/output/snake-github-light.svg" />
-  <img src="https://raw.githubusercontent.com/iamashishrathaur/iamashishrathaur/output/snake-github-light.svg" alt="Snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.comhaxcod/haxcod/output/snake-github-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haxcod/haxcod/output/snake-github-light.svg" />
+  <img src="https://raw.githubusercontent.com/haxcod/haxcod/output/snake-github-light.svg" alt="Snake animation" />
 </picture>
 
 ###
