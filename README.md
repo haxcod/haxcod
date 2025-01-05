@@ -1,11 +1,12 @@
 <div align="center">
 
-# 👋 Hey there, I'm **Ashish Rathaur**! 👨‍💻  
-🚀 Passionate Developer | 🌐 Tech Enthusiast | 🎨 Creative Designer  
+# 👋 <span style="color: #FF5733;">Hey there, I'm</span> **<span style="color: #33FF57;">Ashish Rathaur</span>**! 👨‍💻  
+🚀 <span style="color: #33C4FF;">Passionate Developer</span> | 🌐 <span style="color: #FFC300;">Tech Enthusiast</span> | 🎨 <span style="color: #C70039;">Creative Designer</span>  
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamashishrathaur/) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/<YourProfileID>) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://mernfy.vercel.app/) 
 
 </div>
 
