@@ -75,9 +75,7 @@
 
 ## 😂 Meme Zone
 
-<div align="center">
-  <img src="https://api.memegen.link/images/buzz/memes/memes_everywhere.webp" alt="Meme Generator" height="300" />
-</div>
+![Kappa](https://git.io/Kappa)
 
 ## 🔝 Most Contributed Repositories
 
