@@ -34,14 +34,12 @@
 ![](https://github-contributor-stats.vercel.app/api?username=haxcod&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-## 🐍 Snake Animation Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.comhaxcod/haxcod/output/snake-github-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haxcod/haxcod/output/snake-github-light.svg" />
-  <img src="https://raw.githubusercontent.com/haxcod/output/snake-github-light.svg" alt="Snake animation" />
-</picture>
-
+<!-- Snake -->
+<div align="center">
+    
+  ![snake gif](https://github.com/haxcod/haxcod/blob/output/github-snake-dark.svg)
+</div>
 ###
 
 ## 😂 Meme
