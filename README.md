@@ -79,10 +79,10 @@
   <img src="https://api.memegen.link/images/buzz/memes/memes_everywhere.webp" alt="Meme Generator" height="300" />
 </div>
 
+## 🔝 Most Contributed Repositories
 
 <div align="center">
-
-### 🔝 Most Contributed Repositories
+  
 ![](https://github-contributor-stats.vercel.app/api?username=haxcod&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
