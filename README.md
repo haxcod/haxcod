@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 <span style="color: #FF5733;">Hey there, I'm</span> **<span style="color: #33FF57;">Ashish Rathaur</span>**! 👨‍💻  
+# 👋 <span style="color: #FF5733;">Hey there, I'm</span> **<span style="color: #33FF57;">Ashish Rathour</span>**! 👨‍💻  
 🚀 <span style="color: #33C4FF;">Passionate Developer</span> | 🌐 <span style="color: #FFC300;">Tech Enthusiast</span> | 🎨 <span style="color: #C70039;">Creative Designer</span>  
 
 
