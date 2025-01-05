@@ -76,7 +76,7 @@
 ## 😂 Meme Zone
 
 <div align="center">
-  <img src="https://memer-new.vercel.app/" alt="Meme Generator" height="300" />
+  <img src="https://api.memegen.link/images/buzz/memes/memes_everywhere.webp" alt="Meme Generator" height="300" />
 </div>
 
 
