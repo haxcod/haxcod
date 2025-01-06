@@ -49,6 +49,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haxcod&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=haxcod&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=haxcod&theme=radical&hide_border=true&mode=weekly" alt="GitHub Streak" />
 </div>
 
 <div align="center">
