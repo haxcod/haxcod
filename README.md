@@ -17,7 +17,7 @@
 - 🔭 Currently working on **cutting-edge web and mobile apps**.  
 - 🌱 Exploring **AI, cloud technologies, and advanced front-end frameworks**.  
 - 🏆 Proud **open-source contributor and mentor**.  
-- ✍️ Blogging about development at [My Portfolio](mernfy.vercel.app).  
+- ✍️ Blogging about development at [My Portfolio](https://mernfy.vercel.app/).  
 
 
 ## ⚡ Tech Stack
