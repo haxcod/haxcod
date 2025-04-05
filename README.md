@@ -5,7 +5,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamashishrathaur/) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/<YourProfileID>) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23966934/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://mernfy.vercel.app/) 
 
 </div>
@@ -17,7 +17,7 @@
 - 🔭 Currently working on **cutting-edge web and mobile apps**.  
 - 🌱 Exploring **AI, cloud technologies, and advanced front-end frameworks**.  
 - 🏆 Proud **open-source contributor and mentor**.  
-- ✍️ Blogging about development at [My Blog](https://your-blog-link.com).  
+- ✍️ Blogging about development at [My Portfolio](mernfy.vercel.app).  
 
 
 ## ⚡ Tech Stack
