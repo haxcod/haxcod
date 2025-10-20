@@ -1,0 +1,47 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lightBg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F8FAFC" />
+      <stop offset="50%" stop-color="#E0E7FF" />
+      <stop offset="100%" stop-color="#CFFAFE" />
+    </linearGradient>
+    <linearGradient id="lightText" x1="200" y1="80" x2="1000" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#6366F1" />
+      <stop offset="50%" stop-color="#0EA5E9" />
+      <stop offset="100%" stop-color="#14B8A6" />
+    </linearGradient>
+    <linearGradient id="lightAccent" x1="0" y1="0" x2="0" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#C7D2FE" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#99F6E4" stop-opacity="0.3" />
+    </linearGradient>
+    <filter id="lightShadow" x="-20" y="-20" width="1240" height="360" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feGaussianBlur in="SourceAlpha" stdDeviation="14" result="blur" />
+      <feOffset dy="20" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0.784 0 0 0 0 0.855 0 0 0 0 0.925 0 0 0 0.55 0" />
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow" />
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape" />
+    </filter>
+    <clipPath id="lightClip">
+      <rect x="40" y="28" width="1120" height="264" rx="36" ry="36" />
+    </clipPath>
+  </defs>
+
+  <rect x="40" y="28" width="1120" height="264" rx="36" ry="36" fill="url(#lightBg)" filter="url(#lightShadow)" />
+
+  <g clip-path="url(#lightClip)">
+    <path d="M0 120 C160 40 320 40 480 120 C640 200 800 200 960 120 C1040 80 1120 60 1200 110 V320 H0 Z" fill="url(#lightAccent)" opacity="0.8" />
+    <path d="M0 200 C180 130 360 140 540 210 C760 300 960 260 1200 180 V320 H0 Z" fill="#A5B4FC" opacity="0.2" />
+  </g>
+
+  <g transform="translate(120, 120)">
+    <text x="0" y="0" fill="url(#lightText)" font-family="'Inter', 'Segoe UI', Roboto, sans-serif" font-size="56" font-weight="700">Ashish Rathour</text>
+    <text x="0" y="68" fill="#334155" font-family="'Inter', 'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="600" letter-spacing="0.08em" text-transform="uppercase">Full-stack Engineer · Design-first Developer</text>
+  </g>
+
+  <circle cx="1020" cy="96" r="46" fill="rgba(99,102,241,0.12)" />
+  <circle cx="1080" cy="180" r="26" fill="rgba(14,165,233,0.18)" />
+  <circle cx="980" cy="204" r="18" fill="rgba(20,184,166,0.22)" />
+
+  <path d="M1020 72 L1048 120 L992 120 Z" fill="url(#lightText)" opacity="0.45" />
+</svg>
