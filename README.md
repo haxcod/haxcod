@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Namaste, I'm **Ashish Rathour**
+<img src="assets/name-banner.svg" alt="Ashish Rathour – Full-stack engineer and design-first developer" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1200&color=6366F1&center=true&vCenter=true&width=550&lines=Full-stack+Engineer;Design-first+Developer;Open-source+Contributor;Community+Mentor)](https://mernfy.vercel.app/)
 
