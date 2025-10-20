@@ -6,18 +6,21 @@
 
 **Designing reliable, human-centered products with modern JavaScript, cloud-native patterns, and a sprinkle of storytelling.**
 
-[Portfolio](https://mernfy.vercel.app/) • [LinkedIn](https://linkedin.com/in/iamashishrathaur/) • [Stack Overflow](https://stackoverflow.com/users/23966934/) • [Email](mailto:ashishrathour.dev@gmail.com)
+[<img src="https://img.shields.io/badge/Portfolio-302DFF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />](https://mernfy.vercel.app/)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://linkedin.com/in/iamashishrathour/)
+[<img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />](https://stackoverflow.com/users/23966934/)
+[<img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />](mailto:ashishrathour.dev@gmail.com)
 
 <br />
 
 <p align="center">
-  <a href="#-snapshot">Snapshot</a> •
-  <a href="#-core-toolbox">Core Toolbox</a> •
-  <a href="#-currently-shipping">Currently Shipping</a> •
-  <a href="#-impact-snapshot">Impact</a> •
-  <a href="#-featured-highlights">Highlights</a> •
-  <a href="#-learning-playlist">Learning</a> •
-  <a href="#-contribution-playground">Playground</a>
+  <a href="#-snapshot"><img src="https://img.shields.io/badge/Snapshot-1f2937?style=flat-square" alt="Snapshot" /></a>
+  <a href="#-core-toolbox"><img src="https://img.shields.io/badge/Core%20Toolbox-1f2937?style=flat-square" alt="Core Toolbox" /></a>
+  <a href="#-currently-shipping"><img src="https://img.shields.io/badge/Currently%20Shipping-1f2937?style=flat-square" alt="Currently Shipping" /></a>
+  <a href="#-impact-snapshot"><img src="https://img.shields.io/badge/Impact-1f2937?style=flat-square" alt="Impact" /></a>
+  <a href="#-featured-highlights"><img src="https://img.shields.io/badge/Highlights-1f2937?style=flat-square" alt="Highlights" /></a>
+  <a href="#-learning-playlist"><img src="https://img.shields.io/badge/Learning-1f2937?style=flat-square" alt="Learning" /></a>
+  <a href="#-contribution-playground"><img src="https://img.shields.io/badge/Playground-1f2937?style=flat-square" alt="Playground" /></a>
 </p>
 
 </div>
@@ -62,6 +65,11 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=haxcod&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haxcod&theme=tokyonight" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haxcod&theme=tokyonight" alt="Most committed languages" />
 </div>
 
 
