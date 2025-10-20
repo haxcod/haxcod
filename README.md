@@ -1,93 +1,106 @@
 <div align="center">
 
-# 👋 <span style="color: #FF5733;">Hey there, I'm</span> **<span style="color: #33FF57;">Ashish Rathour</span>**! 👨‍💻  
-🚀 <span style="color: #33C4FF;">Passionate Developer</span> | 🌐 <span style="color: #FFC300;">Tech Enthusiast</span> | 🎨 <span style="color: #C70039;">Creative Designer</span>  
+# 👋 Namaste, I'm **Ashish Rathour**
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1200&color=6366F1&center=true&vCenter=true&width=550&lines=Full-stack+Engineer;Design-first+Developer;Open-source+Contributor;Community+Mentor)](https://mernfy.vercel.app/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamashishrathaur/) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23966934/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://mernfy.vercel.app/) 
+**Designing reliable, human-centered products with modern JavaScript, cloud-native patterns, and a sprinkle of storytelling.**
 
-</div>
+[Portfolio](https://mernfy.vercel.app/) • [LinkedIn](https://linkedin.com/in/iamashishrathaur/) • [Stack Overflow](https://stackoverflow.com/users/23966934/) • [Email](mailto:ashishrathour.dev@gmail.com)
 
+<br />
 
-
-## 💻 About Me
-
-- 🔭 Currently working on **cutting-edge web and mobile apps**.  
-- 🌱 Exploring **AI, cloud technologies, and advanced front-end frameworks**.  
-- 🏆 Proud **open-source contributor and mentor**.  
-- ✍️ Blogging about development at [My Portfolio](https://mernfy.vercel.app/).  
-
-
-## ⚡ Tech Stack
-
-<div align="center">
-  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <a href="#-snapshot">Snapshot</a> •
+  <a href="#-core-toolbox">Core Toolbox</a> •
+  <a href="#-currently-shipping">Currently Shipping</a> •
+  <a href="#-impact-snapshot">Impact</a> •
+  <a href="#-featured-highlights">Highlights</a> •
+  <a href="#-learning-playlist">Learning</a> •
+  <a href="#-contribution-playground">Playground</a>
+</p>
 
 </div>
 
 
+## 🧭 Snapshot
 
-## 📊 GitHub Stats
+- **Code meets craft**: I blend UX thinking with scalable engineering, crafting performant full-stack experiences.
+- **Product mindset**: Comfortable owning the loop from ideation → delivery → iteration, using data to steer decisions.
+- **Community-first**: Speaking, mentoring, and documenting learnings to lift the next wave of makers.
+
+
+## 🛠️ Core Toolbox
+
+| Frontend | Backend & APIs | Cloud & Ops |
+| --- | --- | --- |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |
+
+
+## 🚀 Currently Shipping
+
+- **Next-gen web experiences** focused on accessibility, motion design, and performance budgets.
+- **Composable backends** powered by TypeScript, serverless, and clean API contracts.
+- **DX experiments**: building internal tooling and CLIs to shorten feedback loops for teams.
+
+
+## 📊 Impact Snapshot
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haxcod&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haxcod&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haxcod&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haxcod&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxcod&theme=radical&hide_border=true&layout=compact" width="40%" alt="Top Languages" />
 </div>
 
-
-## 🏆 Achievements
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=haxcod&theme=onestar&no-frame=true&column=5" alt="Trophies" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haxcod&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+</div>
 
-## 🐍 GitHub Activity
+
+## 🗂️ Featured Highlights
+
+| Initiative | Snapshot | Stack |
+| --- | --- | --- |
+| [MERNfy](https://mernfy.vercel.app/) | Personal design-engineering lab showcasing immersive UX and product case studies. | Next.js · Tailwind CSS · Motion Design |
+| Open-source contributions | Helping shape community packages, triaging issues, and documenting DevEx wins. | TypeScript · React · GitHub Actions |
+| Mentorship & knowledge sharing | Hosting live sessions and guides focused on modern JavaScript and career growth. | Content strategy · Storytelling |
+
+> Explore more in the pinned repositories and check-ins below — I love chatting about emerging tech, design systems, and developer tooling.
+
+
+## 🧠 Learning Playlist
+
+- **AI-assisted UIs**: weaving LLM features into day-to-day products with safety-first guardrails.
+- **Edge-native deployments**: experimenting with Vercel/Netlify edge functions and serverless data.
+- **Observability**: deep-diving into telemetry, structured logging, and performance archeology.
+
+
+## 🤝 Let's Collaborate
+
+- **Collab-ready**: Available for product experiments, consulting, and speaking engagements.
+- **Mentorship**: Always happy to hop on a call with budding engineers and designers.
+- **Say hi**: Reach me via [LinkedIn](https://linkedin.com/in/iamashishrathaur/) or drop a line at `ashishrathour.dev@gmail.com`.
+
+
+## 🐍 Contribution Playground
 
 <div align="center">
   
   ![Snake animation](https://github.com/haxcod/haxcod/blob/output/github-snake-dark.svg)
-   
-</div>
-
-
-
-## 😂 Meme Zone
-
-![Kappa](https://git.io/Kappa)
-
-## 🔝 Most Contributed Repositories
-
-<div align="center">
   
-![](https://github-contributor-stats.vercel.app/api?username=haxcod&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 </div>
 
 
 <div align="center">
-  
-  ![Visitor Count](https://visitcount.itsvg.in/api?id=iamashishrathaur&icon=0&color=0)
-  
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=iamashishrathaur&icon=0&color=0)
+
 </div>
