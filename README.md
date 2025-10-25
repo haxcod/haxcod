@@ -11,9 +11,9 @@
 **Designing reliable, human-centered products with modern JavaScript, cloud-native patterns, and a sprinkle of storytelling.**
 
 [<img src="https://img.shields.io/badge/Portfolio-302DFF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />](https://mernfy.vercel.app/)
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://linkedin.com/in/iamashishrathour/)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://linkedin.com/in/iamashishrathaur/)
 [<img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />](https://stackoverflow.com/users/23966934/)
-[<img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />](mailto:ashishrathour.dev@gmail.com)
+[<img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />](mailto:ai.haxcod@gmail.com)
 
 <br />
 
