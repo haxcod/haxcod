@@ -190,41 +190,62 @@ graph LR
 
 <div align="center">
 
-<!-- Primary Stats with Fallback -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=haxcod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=haxcod&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api?username=haxcod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="48%" />
-</picture>
+<!-- Primary Stats with Multiple Fallbacks -->
+<a href="https://github.com/haxcod">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=haxcod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=haxcod&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+    <img src="https://github-readme-stats.vercel.app/api?username=haxcod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" 
+         onerror="this.onerror=null; this.src='https://github-readme-stats-sigma-five.vercel.app/api?username=haxcod&show_icons=true&theme=tokyonight&hide_border=true';" 
+         alt="GitHub Stats" width="48%" />
+  </picture>
+</a>
 
-<!-- Streak Stats with Fallback -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=haxcod&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=haxcod&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com?user=haxcod&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" alt="GitHub Streak" width="48%" />
-</picture>
+<!-- Streak Stats with Multiple Fallbacks -->
+<a href="https://github.com/haxcod">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=haxcod&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=haxcod&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" />
+    <img src="https://streak-stats.demolab.com?user=haxcod&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" 
+         onerror="this.onerror=null; this.src='https://github-readme-streak-stats.herokuapp.com/?user=haxcod&theme=tokyonight&hide_border=true';" 
+         alt="GitHub Streak" width="48%" />
+  </picture>
+</a>
+
+<!-- Fallback: Static Streak Badge (if images fail) -->
+<noscript>
+  <img src="https://img.shields.io/badge/GitHub-Streak_Stats-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Streak" width="48%" />
+</noscript>
 
 </div>
 
 <div align="center">
 
-<!-- Language Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haxcod&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haxcod&theme=default&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxcod&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages" width="42%" />
-</picture>
+<!-- Language Stats with Fallback -->
+<a href="https://github.com/haxcod">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haxcod&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haxcod&theme=default&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxcod&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" 
+         onerror="this.onerror=null; this.src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haxcod&theme=tokyonight&hide_border=true&layout=compact';" 
+         alt="Top Languages" width="42%" />
+  </picture>
+</a>
 
 </div>
 
 <div align="center">
 
-<!-- Trophy Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=haxcod&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&cache_seconds=1800" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=haxcod&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15&cache_seconds=1800" />
-  <img src="https://github-profile-trophy.vercel.app/?username=haxcod&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&cache_seconds=1800" alt="GitHub Trophies" />
-</picture>
+<!-- Trophy Stats with Fallback -->
+<a href="https://github.com/haxcod">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=haxcod&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&cache_seconds=1800" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=haxcod&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15&cache_seconds=1800" />
+    <img src="https://github-profile-trophy.vercel.app/?username=haxcod&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&cache_seconds=1800" 
+         onerror="this.onerror=null; this.src='https://github-profile-trophy.vercel.app/?username=haxcod&theme=tokyonight&no-frame=true&column=4';" 
+         alt="GitHub Trophies" />
+  </picture>
+</a>
 
 </div>
 
@@ -395,5 +416,7 @@ If you find my projects helpful, consider supporting:
 <sub>⚡ This README is powered by passion, coffee, and endless curiosity</sub>
 
 <sub>💡 **Last Updated**: Auto-generated with GitHub Actions</sub>
+
+<sub>🔧 **Note**: If stats don't load, try refreshing the page or check back later - external APIs may occasionally experience downtime</sub>
 
 </div>
