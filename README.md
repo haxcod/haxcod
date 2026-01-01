@@ -321,7 +321,7 @@ graph LR
       <sub>Active Contributor</sub>
     </td>
     <td align="center" width="25%">
-      <b>👥 Mentorship</b><br/>
+      <b>👥 Mentorship</b><br/> 
       <sub>Community Leader</sub>
     </td>
     <td align="center" width="25%">
