@@ -1,336 +1,413 @@
 <div align="center">
 
-<!-- Dynamic Header with Fallback -->
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/name-banner-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/name-banner.svg" />
-  <img src="assets/name-banner.svg" alt="Ashish Rathour – Full-stack Engineer & Design-first Developer" width="100%" />
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ashish%20Rathour&fontSize=60&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Full-Stack%20%26%20Mobile%20Engineer%20%E2%80%A2%20Design-First%20Developer%20%E2%80%A2%20Product%20Craftsman&descAlign=50&descAlignY=65&descSize=16&animation=fadeIn" />
 
-<!-- Animated Typing Effect -->
-<a href="https://mernfy.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=60&lines=Full-stack+Engineer+%F0%9F%9A%80;Design-first+Developer+%F0%9F%8E%A8;Open-source+Advocate+%E2%9C%A8;Product+Builder+%F0%9F%92%A1;Community+Mentor+%F0%9F%8C%B1" alt="Typing SVG" />
-</a>
+<br/>
 
-### Crafting scalable, human-centered products with modern JavaScript, cloud-native architecture, and thoughtful design
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=620&height=50&lines=Full-Stack+%26+Mobile+Engineer+%F0%9F%9A%80;Design+Systems+%2B+DX+Obsessed+%F0%9F%8E%A8;Building+AI-Enhanced+Interfaces+%F0%9F%A4%96;React+Native+%2B+Expo+Developer+%F0%9F%93%B1;Open-Source+Advocate+%26+Mentor+%F0%9F%8C%B1" alt="Typing SVG" />
 
-<br />
+<br/><br/>
 
-<!-- Professional Social Links -->
-<p align="center">
-  <a href="https://mernfy.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logoColor=white" alt="Portfolio" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=haxcod&style=flat-square&color=A78BFA&label=Profile+Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/haxcod?style=flat-square&color=818CF8&label=Followers&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/haxcod?style=flat-square&color=C4B5FD&label=Total+Stars&logo=github&logoColor=white" />
+</p>
+
+<p>
+  <a href="https://mernfy.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/iamashishrathaur/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/iamashishrathaur/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/23966934/">
-    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  <a href="https://stackoverflow.com/users/23966934/" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
   <a href="mailto:ashishrathour.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://cal.com/haxcod/discovery">
-    <img src="https://img.shields.io/badge/Book_a_Call-14B8A6?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Book Call" />
+  <a href="https://cal.com/haxcod/discovery" target="_blank">
+    <img src="https://img.shields.io/badge/Book_a_Call-14B8A6?style=for-the-badge&logo=googlemeet&logoColor=white" />
   </a>
 </p>
 
-<!-- Navigation -->
-<p align="center">
-  <a href="#-about-me">About</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#-github-insights">Insights</a> •
-  <a href="#-achievements">Achievements</a> •
-  <a href="#-connect">Connect</a>
+<p>
+  <a href="#-who-am-i">Who Am I</a> &nbsp;·&nbsp;
+  <a href="#%EF%B8%8F-tech-arsenal">Tech Arsenal</a> &nbsp;·&nbsp;
+  <a href="#-featured-work">Featured Work</a> &nbsp;·&nbsp;
+  <a href="#-github-stats">GitHub Stats</a> &nbsp;·&nbsp;
+  <a href="#-achievements">Achievements</a> &nbsp;·&nbsp;
+  <a href="#-currently-learning--2026">Learning</a> &nbsp;·&nbsp;
+  <a href="#-lets-connect">Connect</a>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 </div>
 
-## 🎯 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-```typescript
-const ashish = {
-  role: "Full-stack Engineer",
-  focus: ["Design Systems", "Developer Experience", "Product Engineering"],
-  currentlyBuilding: "Next-gen web experiences with AI-enhanced UX",
-  philosophy: "Code is poetry, design is empathy, shipping is everything",
-  
-  workStyle: {
-    approach: "Design-first, performance-obsessed, user-centered",
-    methodology: ["Agile", "Design Thinking", "Continuous Iteration"],
-    collaboration: "Open communication, remote-first, async-friendly"
+## 🧠 Who Am I
+
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
+```ts
+const ashish: Developer = {
+  pronouns : "he/him",
+  role     : "Full-Stack & Mobile Engineer",
+  location : "India 🇮🇳",
+  year     : 2026,
+
+  focus: [
+    "Design Systems",
+    "Developer Experience",
+    "AI-Enhanced Interfaces",
+    "Cross-Platform Mobile (React Native + Expo)",
+    "Product Engineering",
+  ],
+
+  currentlyBuilding: "AI-powered cross-platform apps with Expo SDK 52+",
+
+  stack: {
+    web      : ["React", "Next.js 15", "TypeScript", "Tailwind v4"],
+    mobile   : ["React Native", "Expo", "EAS Build", "Expo Router"],
+    backend  : ["Node.js", "Express", "GraphQL", "tRPC"],
+    database : ["MongoDB", "PostgreSQL", "Redis", "Supabase"],
+    ai       : ["OpenAI API", "LangChain", "Vercel AI SDK"],
+    devops   : ["Docker", "AWS", "GitHub Actions", "Vercel"],
   },
-  
-  beyondCode: ["Technical Writing", "Mentorship", "Public Speaking"],
-  funFact: "I debug with console.log() and I'm not ashamed 🐛"
+
+  philosophy: [
+    "Code is poetry — write it with intent",
+    "Design is empathy — build with users in mind",
+    "Shipping is everything — perfect is the enemy of done",
+  ],
+
+  funFact: "I debug with console.log() 🐛 and I am not ashamed",
 };
 ```
 
-<details>
-<summary>📈 <b>What Drives Me</b></summary>
-<br/>
+<br clear="right"/>
 
-- **Building with Purpose**: Every line of code should solve a real problem and enhance user experience
-- **Design Excellence**: Beautiful, accessible interfaces aren't optional—they're essential
-- **Knowledge Sharing**: Growing by teaching others and contributing to the community
-- **Continuous Learning**: Staying ahead of the curve in an ever-evolving tech landscape
-- **Product Mindset**: Owning the full cycle from ideation to delivery and iteration
+> *"I don't just write code — I craft digital products that solve real problems at the intersection of engineering excellence and human-centered design."*
 
-</details>
+| 🎯 Building with Purpose | 🎨 Design Excellence | 📱 Mobile-First | 🚀 Product Mindset |
+|:---:|:---:|:---:|:---:|
+| Every line of code should solve a real problem | Beautiful, accessible interfaces are essential | Native-feel apps with React Native & Expo | Full cycle: ideation → build → ship → iterate |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-## 🛠️ Tech Stack
+## ⚔️ Tech Arsenal
 
 <div align="center">
 
-### Frontend Development
+### 🖥️ Web Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### Backend Development
+### 📱 Mobile — React Native & Expo
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo_SDK_52-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Expo Router](https://img.shields.io/badge/Expo_Router-000020?style=for-the-badge&logo=expo&logoColor=white)
+![EAS Build](https://img.shields.io/badge/EAS_Build-4630EB?style=for-the-badge&logo=expo&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Reanimated](https://img.shields.io/badge/Reanimated_3-FF6584?style=for-the-badge&logo=react&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+### ⚙️ Backend & APIs
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-### Database & Cloud
+### 🤖 AI & LLM Stack — 2026
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+
+### 🗄️ Database & Cloud
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Tools
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+### 🛠️ DevOps & Tooling
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Design & Prototyping
+### 🎨 Design & Prototyping
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
 
 </div>
 
+<br/>
+
+### 🗺️ Engineering Mindmap — 2026
+
+```mermaid
+mindmap
+  root((Ashish Rathour))
+    Web
+      React + Next.js 15
+      TypeScript
+      Tailwind v4
+      Animations
+    Mobile
+      React Native
+      Expo SDK 52+
+      Expo Router
+      EAS Build + OTA
+    Backend
+      Node.js + Express
+      GraphQL + tRPC
+      REST + WebSockets
+      Auth + Security
+    AI Stack
+      OpenAI API
+      LangChain
+      Vercel AI SDK
+      RAG Pipelines
+    Data
+      MongoDB + PostgreSQL
+      Redis Caching
+      Supabase + Firebase
+    DevOps
+      Docker
+      AWS + Vercel
+      Turborepo + pnpm
+      CI/CD Pipelines
+    Craft
+      Product Thinking
+      UX Research
+      Technical Writing
+      Open Source
+```
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-## 🚀 Featured Projects
-
-<div align="center">
+## 🚀 Featured Work
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">MERNfy Portfolio</h3>
-      <div align="center">
-        <a href="https://mernfy.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/View_Live-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="View Live" />
-        </a>
-        <p>
-          <strong>A design-engineering lab</strong> showcasing immersive UX, product case studies, and interactive experiences built with Next.js and cutting-edge web technologies.
-        </p>
-        <p>
-          <code>Next.js</code> <code>Tailwind CSS</code> <code>Framer Motion</code> <code>TypeScript</code>
-        </p>
-      </div>
+    <td width="50%" valign="top">
+      <h3>🌐 MERNfy — Design & Engineering Lab</h3>
+      <p>A <strong>cutting-edge portfolio platform</strong> blurring the line between product and portfolio. Immersive UX, animated case studies, and interactive demos.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_15-000?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+      </p>
+      <a href="https://mernfy.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://github.com/haxcod"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github" /></a>
+      <ul>
+        <li>⚡ Lighthouse 98/100 Performance</li>
+        <li>🎨 Custom design system, 40+ components</li>
+        <li>📱 Mobile-first, fully responsive</li>
+      </ul>
     </td>
-    <td width="50%">
-      <h3 align="center">Open Source Contributions</h3>
-      <div align="center">
-        <a href="https://github.com/haxcod" target="_blank">
-          <img src="https://img.shields.io/badge/View_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
-        </a>
-        <p>
-          <strong>Community-driven development</strong> contributing to popular packages, triaging issues, and documenting best practices for improved DevEx.
-        </p>
-        <p>
-          <code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>Documentation</code>
-        </p>
-      </div>
+    <td width="50%" valign="top">
+      <h3>📱 Mobile Apps — React Native + Expo</h3>
+      <p>Cross-platform <strong>mobile applications</strong> with Expo Router for file-based navigation and EAS for CI/CD builds and OTA updates.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/EAS-4630EB?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+      <a href="https://github.com/haxcod"><img src="https://img.shields.io/badge/View_Projects-181717?style=for-the-badge&logo=github" /></a>
+      <ul>
+        <li>📲 Android & iOS from one codebase</li>
+        <li>🔄 OTA updates via EAS Update</li>
+        <li>🎞️ Smooth animations with Reanimated 3</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI-Powered Apps — 2026</h3>
+      <p>Building <strong>AI-enhanced web and mobile experiences</strong> using Vercel AI SDK, OpenAI APIs, and RAG pipelines for intelligent, context-aware products.</p>
+      <p>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel_AI-000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <a href="https://github.com/haxcod"><img src="https://img.shields.io/badge/Explore-181717?style=for-the-badge&logo=github" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 Open Source Contributions</h3>
+      <p>Actively <strong>contributing to the ecosystem</strong> — triaging issues, merging PRs, writing documentation, and building community tools to improve DevEx.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      </p>
+      <a href="https://github.com/haxcod"><img src="https://img.shields.io/badge/All_Projects-181717?style=for-the-badge&logo=github" /></a>
     </td>
   </tr>
 </table>
 
-### 🎯 Current Focus
+<br/>
+
+### 🔄 Current Focus Cycle
 
 ```mermaid
-graph LR
-    A[AI-Enhanced UX] --> B[Edge Computing]
-    B --> C[Serverless Architecture]
-    C --> D[Design Systems]
-    D --> E[Developer Tooling]
+flowchart LR
+    A("AI-Enhanced UX") --> B("React Native + Expo")
+    B --> C("Edge + Serverless")
+    C --> D("Design Systems")
+    D --> E("Dev Tooling")
     E --> A
-    style A fill:#6366f1
-    style B fill:#8b5cf6
-    style C fill:#a855f7
-    style D fill:#c084fc
-    style E fill:#d8b4fe
-```
 
-</div>
+    style A fill:#312e81,color:#c7d2fe,stroke:#4f46e5
+    style B fill:#1e3a5f,color:#bfdbfe,stroke:#2563eb
+    style C fill:#1e1b4b,color:#a5b4fc,stroke:#4338ca
+    style D fill:#4a044e,color:#f5d0fe,stroke:#a21caf
+    style E fill:#450a0a,color:#fecaca,stroke:#dc2626
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Primary Stats with Multiple Fallbacks -->
-<a href="https://github.com/haxcod">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=haxcod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=haxcod&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-    <img src="https://github-readme-stats.vercel.app/api?username=haxcod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" 
-         onerror="this.onerror=null; this.src='https://github-readme-stats-sigma-five.vercel.app/api?username=haxcod&show_icons=true&theme=tokyonight&hide_border=true';" 
-         alt="GitHub Stats" width="48%" />
-  </picture>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=haxcod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=haxcod&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
 
-<!-- Streak Stats with Multiple Fallbacks -->
-<a href="https://github.com/haxcod">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=haxcod&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=haxcod&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" />
-    <img src="https://streak-stats.demolab.com?user=haxcod&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" 
-         onerror="this.onerror=null; this.src='https://github-readme-streak-stats.herokuapp.com/?user=haxcod&theme=tokyonight&hide_border=true';" 
-         alt="GitHub Streak" width="48%" />
-  </picture>
-</a>
+<br/><br/>
 
-<!-- Fallback: Static Streak Badge (if images fail) -->
-<noscript>
-  <img src="https://img.shields.io/badge/GitHub-Streak_Stats-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Streak" width="48%" />
-</noscript>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxcod&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" width="50%" alt="Top Languages" />
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-<!-- Language Stats with Fallback -->
-<a href="https://github.com/haxcod">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haxcod&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haxcod&theme=default&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxcod&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" 
-         onerror="this.onerror=null; this.src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haxcod&theme=tokyonight&hide_border=true&layout=compact';" 
-         alt="Top Languages" width="42%" />
-  </picture>
-</a>
-
-</div>
-
-<div align="center">
-
-<!-- Trophy Stats with Fallback -->
-<a href="https://github.com/haxcod">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=haxcod&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&cache_seconds=1800" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=haxcod&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15&cache_seconds=1800" />
-    <img src="https://github-profile-trophy.vercel.app/?username=haxcod&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&cache_seconds=1800" 
-         onerror="this.onerror=null; this.src='https://github-profile-trophy.vercel.app/?username=haxcod&theme=tokyonight&no-frame=true&column=4';" 
-         alt="GitHub Trophies" />
-  </picture>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=haxcod&theme=tokyonight&no-frame=true&column=7&margin-w=10" width="100%" alt="GitHub Trophies" />
 
 </div>
 
 <details>
-<summary>📈 <b>Detailed Contribution Analytics</b></summary>
+<summary><b>📈 Detailed Contribution Analytics</b></summary>
 <br/>
 
 <div align="center">
 
-<!-- Activity Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=haxcod&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=haxcod&theme=github-light&hide_border=true&area=true&cache_seconds=1800" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haxcod&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800" alt="Activity Graph" width="95%" />
-</picture>
-
-<br/><br/>
-
-<!-- Profile Summary Cards -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haxcod&theme=tokyonight&cache_seconds=1800" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haxcod&theme=default&cache_seconds=1800" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haxcod&theme=tokyonight&cache_seconds=1800" alt="Profile Details" width="95%" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haxcod&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haxcod&theme=tokyonight&cache_seconds=1800" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haxcod&theme=default&cache_seconds=1800" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haxcod&theme=tokyonight&cache_seconds=1800" alt="Repos per Language" width="48%" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haxcod&theme=tokyonight" width="95%" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haxcod&theme=tokyonight&cache_seconds=1800" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haxcod&theme=default&cache_seconds=1800" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haxcod&theme=tokyonight&cache_seconds=1800" alt="Most Committed Languages" width="48%" />
-</picture>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haxcod&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haxcod&theme=tokyonight" width="48%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haxcod&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haxcod&theme=tokyonight&utcOffset=5.5" width="48%" />
 
 </div>
 
 </details>
 
+<br/>
+
 <div align="center">
 
-<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haxcod/haxcod/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haxcod/haxcod/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/haxcod/haxcod/output/github-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/haxcod/haxcod/output/github-snake-dark.svg" alt="GitHub Snake" />
 </picture>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-## 🏆 Achievements
+## 🏆 Achievements & Impact
 
 <div align="center">
 
-### Professional Certifications & Recognitions
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Unacademy-Mentor-2563EB?style=for-the-badge&logo=academia&logoColor=white" /><br/>
+      <sub>Educating the next generation of developers</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Anditita-Product_Creator-0EA5E9?style=for-the-badge&logoColor=white" /><br/>
+      <sub>Make My Home — Real-world product launch</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Stack_Overflow-Contributor-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /><br/>
+      <sub>Helping developers solve hard problems</sub>
+    </td>
+  </tr>
+</table>
 
-[![Unacademy Mentor](https://img.shields.io/badge/🎓_Unacademy-Mentor-2563EB?style=for-the-badge)](https://unacademy.com/)
-[![Anditita Creator](https://img.shields.io/badge/🏠_Anditita_Make_My_Home-Creator-0EA5E9?style=for-the-badge)](https://google.com/search?q=Anditita+Make+My+Home)
-[![Stack Overflow](https://img.shields.io/badge/📚_Stack_Overflow-Contributor-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23966934/)
-
-### Impact Metrics
+<br/>
 
 <table>
   <tr>
     <td align="center" width="25%">
-      <b>🌟 Open Source</b><br/>
-      <sub>Active Contributor</sub>
+      <h2>🌟</h2>
+      <b>Open Source</b><br/>
+      <sub>Active Contributor</sub><br/>
+      <sub>PRs · Issues · Docs</sub>
     </td>
     <td align="center" width="25%">
-      <b>👥 Mentorship</b><br/> 
-      <sub>Community Leader</sub>
+      <h2>👥</h2>
+      <b>Mentorship</b><br/>
+      <sub>Community Leader</sub><br/>
+      <sub>Unacademy Mentor</sub>
     </td>
     <td align="center" width="25%">
-      <b>📝 Technical Writing</b><br/>
-      <sub>Knowledge Sharing</sub>
+      <h2>✍️</h2>
+      <b>Technical Writing</b><br/>
+      <sub>Knowledge Sharing</sub><br/>
+      <sub>Guides · Tutorials</sub>
     </td>
     <td align="center" width="25%">
-      <b>🎤 Public Speaking</b><br/>
-      <sub>Tech Evangelist</sub>
+      <h2>🎤</h2>
+      <b>Public Speaking</b><br/>
+      <sub>Tech Evangelist</sub><br/>
+      <sub>Talks · Workshops</sub>
     </td>
   </tr>
 </table>
@@ -339,19 +416,52 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-##  Current Learning Journey
+## 📡 Currently Learning — 2026
 
 <div align="center">
 
 ```diff
-+ 🤖 AI-Enhanced User Interfaces & LLM Integration
-+ ⚡ Edge Computing & Serverless Architecture
-+ 📊 Advanced Observability & Performance Monitoring
-+ 🎨 Advanced Design Systems & Component Libraries
-+ 🔐 Web3 & Blockchain Fundamentals
+@@  ── GROWTH ROADMAP 2026 ──  @@
+
++ AI Agents & RAG Pipelines (LangChain, LlamaIndex, Embeddings)
++ React Native New Architecture (JSI, Fabric, TurboModules)
++ Expo SDK 52+ & EAS Workflows (OTA, Submissions, Previews)
++ Edge Computing & Cloudflare Workers
++ Serverless Architecture & Microservices Patterns
++ Advanced Observability (OpenTelemetry, Grafana, Sentry)
++ Design Tokens & Multi-platform Component Libraries
++ Web3 Fundamentals & Decentralized Storage (IPFS)
++ Testing Strategies: E2E (Maestro), Contract, Visual Regression
+- Tutorial Hell — always shipping real products
+- Chasing shiny tech without product validation
 ```
 
 </div>
+
+<br/>
+
+### 🧭 Engineering Growth Timeline
+
+```mermaid
+timeline
+    title Engineering Growth Path
+    2021 : HTML, CSS, JavaScript
+         : Built first React app
+    2022 : Node.js and Express APIs
+         : MongoDB and REST architecture
+    2023 : TypeScript adoption
+         : Next.js full-stack apps
+         : First open source contributions
+    2024 : GraphQL and real-time systems
+         : Docker and CI/CD pipelines
+         : Design systems and Figma mastery
+    2025 : React Native + Expo mobile apps
+         : AI/LLM integration
+         : Mentoring and building in public
+    2026 : Expo New Architecture
+         : AI Agents and RAG pipelines
+         : Cross-platform product studio
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
@@ -359,64 +469,54 @@ graph LR
 
 <div align="center">
 
-### Open for Collaboration
-
-I'm always interested in:
-- 🚀 **Product Development**: Building meaningful solutions that scale
-- 🎯 **Consulting**: Architecture, performance, and DevEx optimization
-- 🎤 **Speaking Engagements**: Sharing knowledge at conferences and meetups
-- 🤝 **Mentorship**: Guiding aspiring developers and designers
-- 💡 **Open Source**: Contributing to impactful community projects
+<table>
+  <tr>
+    <td align="center">🚀<br/><b>Product Dev</b><br/><sub>Web and Mobile at scale</sub></td>
+    <td align="center">🎯<br/><b>Consulting</b><br/><sub>Architecture and DevEx audits</sub></td>
+    <td align="center">🎤<br/><b>Speaking</b><br/><sub>Conferences and workshops</sub></td>
+    <td align="center">🌱<br/><b>Mentorship</b><br/><sub>Junior to Senior growth</sub></td>
+    <td align="center">💡<br/><b>Open Source</b><br/><sub>Impactful community OSS</sub></td>
+  </tr>
+</table>
 
 <br/>
 
-### Get in Touch
-
-<p align="center">
+<p>
   <a href="https://cal.com/haxcod/discovery">
-    <img src="https://img.shields.io/badge/📅_Schedule_a_Discovery_Call-14B8A6?style=for-the-badge&logoColor=white" alt="Schedule Call" />
+    <img src="https://img.shields.io/badge/Schedule_a_Discovery_Call-14B8A6?style=for-the-badge&logo=googlemeet&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/iamashishrathour/">
-    <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:ashishrathour.dev@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <br/>
 
-### Support My Work
-
-If you find my projects helpful, consider supporting:
-
 <a href="https://www.buymeacoffee.com/haxcod">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
+&nbsp;
 <a href="https://github.com/sponsors/haxcod">
-  <img src="https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors" />
+  <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
 </a>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+
 <div align="center">
 
-### 📈 Profile Analytics
+<sub>Crafted with passion, precision, and too much coffee — <b>2026</b></sub>
 
-![Profile Views](https://komarev.com/ghpvc/?username=haxcod&style=for-the-badge&color=6366f1&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/haxcod?style=for-the-badge&color=8b5cf6&label=Followers)
-![Stars](https://img.shields.io/github/stars/haxcod?style=for-the-badge&color=a855f7&label=Total+Stars)
+<sub>Auto-updated via <b>GitHub Actions</b> · Snake graph generated nightly</sub>
 
-<br/>
-
----
-
-<sub>⚡ This README is powered by passion, coffee, and endless curiosity</sub>
-
-<sub>💡 **Last Updated**: Auto-generated with GitHub Actions</sub>
-
-<sub>🔧 **Note**: If stats don't load, try refreshing the page or check back later - external APIs may occasionally experience downtime</sub>
+<sub>Found this useful? Drop a star on my repos — it means the world!</sub>
 
 </div>
