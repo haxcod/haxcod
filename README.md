@@ -1,36 +1,36 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ashish%20Rathour&fontSize=60&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Full-Stack+%26+Mobile+Engineer+%7C+Design-First+Developer+%7C+Product+Craftsman&descAlign=50&descAlignY=65&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Ashish%20Rathour&amp;fontSize=60&amp;fontAlign=50&amp;fontAlignY=40&amp;fontColor=ffffff&amp;desc=Full-Stack+and+Mobile+Engineer+%7C+Design-First+Developer+%7C+Product+Craftsman&amp;descAlign=50&amp;descAlignY=65&amp;descSize=16&amp;animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=620&height=50&lines=Full-Stack+%26+Mobile+Engineer+%F0%9F%9A%80;Design+Systems+%2B+DX+Obsessed+%F0%9F%8E%A8;Building+AI-Enhanced+Interfaces+%F0%9F%A4%96;React+Native+%2B+Expo+Developer+%F0%9F%93%B1;Open-Source+Advocate+%26+Mentor+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=50&amp;lines=Full-Stack+and+Mobile+Engineer;Design+Systems+%2B+DX+Obsessed;Building+AI-Enhanced+Interfaces;React+Native+%2B+Expo+Developer;Open-Source+Advocate+and+Mentor" alt="Typing SVG" />
 
 <br/><br/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=haxcod&style=flat-square&color=A78BFA&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=haxcod&amp;style=flat-square&amp;color=A78BFA&amp;label=Profile+Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/haxcod?style=flat-square&color=818CF8&label=Followers&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/haxcod?style=flat-square&amp;color=818CF8&amp;label=Followers&amp;logo=github&amp;logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/haxcod?style=flat-square&color=C4B5FD&label=Total+Stars&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/haxcod?style=flat-square&amp;color=C4B5FD&amp;label=Total+Stars&amp;logo=github&amp;logoColor=white" />
 </p>
 
 <p>
   <a href="https://mernfy.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/iamashishrathaur/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/23966934/" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&amp;logo=stackoverflow&amp;logoColor=white" />
   </a>
   <a href="mailto:ashishrathour.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
   </a>
   <a href="https://cal.com/haxcod/discovery" target="_blank">
-    <img src="https://img.shields.io/badge/Book_a_Call-14B8A6?style=for-the-badge&logo=googlemeet&logoColor=white" />
+    <img src="https://img.shields.io/badge/Book_a_Call-14B8A6?style=for-the-badge&amp;logo=googlemeet&amp;logoColor=white" />
   </a>
 </p>
 
@@ -228,13 +228,13 @@ mindmap
       <h3>🌐 MERNfy — Design & Engineering Lab</h3>
       <p>A <strong>cutting-edge portfolio platform</strong> blurring the line between product and portfolio. Immersive UX, animated case studies, and interactive demos.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js_15-000?style=flat-square&logo=next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js_15-000?style=flat-square&amp;logo=next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&amp;logo=framer&amp;logoColor=white" />
       </p>
-      <a href="https://mernfy.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-      <a href="https://github.com/haxcod"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github" /></a>
+      <a href="https://mernfy.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" /></a>
+      <a href="https://github.com/haxcod"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&amp;logo=github" /></a>
       <ul>
         <li>⚡ Lighthouse 98/100 Performance</li>
         <li>🎨 Custom design system, 40+ components</li>
@@ -245,12 +245,12 @@ mindmap
       <h3>📱 Mobile Apps — React Native + Expo</h3>
       <p>Cross-platform <strong>mobile applications</strong> with Expo Router for file-based navigation and EAS for CI/CD builds and OTA updates.</p>
       <p>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-        <img src="https://img.shields.io/badge/EAS-4630EB?style=flat-square&logo=expo&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&amp;logo=expo&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/EAS-4630EB?style=flat-square&amp;logo=expo&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" />
       </p>
-      <a href="https://github.com/haxcod"><img src="https://img.shields.io/badge/View_Projects-181717?style=for-the-badge&logo=github" /></a>
+      <a href="https://github.com/haxcod"><img src="https://img.shields.io/badge/View_Projects-181717?style=for-the-badge&amp;logo=github" /></a>
       <ul>
         <li>📲 Android & iOS from one codebase</li>
         <li>🔄 OTA updates via EAS Update</li>
@@ -263,21 +263,21 @@ mindmap
       <h3>🤖 AI-Powered Apps — 2026</h3>
       <p>Building <strong>AI-enhanced web and mobile experiences</strong> using Vercel AI SDK, OpenAI APIs, and RAG pipelines for intelligent, context-aware products.</p>
       <p>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel_AI-000?style=flat-square&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&amp;logo=openai&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel_AI-000?style=flat-square&amp;logo=vercel&amp;logoColor=white" />
       </p>
-      <a href="https://github.com/haxcod"><img src="https://img.shields.io/badge/Explore-181717?style=for-the-badge&logo=github" /></a>
+      <a href="https://github.com/haxcod"><img src="https://img.shields.io/badge/Explore-181717?style=for-the-badge&amp;logo=github" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>📦 Open Source Contributions</h3>
       <p>Actively <strong>contributing to the ecosystem</strong> — triaging issues, merging PRs, writing documentation, and building community tools to improve DevEx.</p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=node.js&amp;logoColor=white" />
       </p>
-      <a href="https://github.com/haxcod"><img src="https://img.shields.io/badge/All_Projects-181717?style=for-the-badge&logo=github" /></a>
+      <a href="https://github.com/haxcod"><img src="https://img.shields.io/badge/All_Projects-181717?style=for-the-badge&amp;logo=github" /></a>
     </td>
   </tr>
 </table>
@@ -307,16 +307,16 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=haxcod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haxcod&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=haxcod&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github" width="49%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=haxcod&amp;theme=tokyonight&amp;hide_border=true" width="49%" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxcod&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" width="50%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxcod&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;langs_count=10&amp;exclude_repo=haxcod" width="50%" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=haxcod&theme=tokyonight&no-frame=true&column=7&margin-w=10" width="100%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=haxcod&amp;theme=tokyonight&amp;no-frame=true&amp;column=7&amp;margin-w=10" width="100%" alt="GitHub Trophies" />
 
 </div>
 
@@ -326,21 +326,21 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haxcod&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haxcod&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="95%" alt="Activity Graph" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haxcod&theme=tokyonight" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haxcod&amp;theme=tokyonight" width="95%" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haxcod&theme=tokyonight" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haxcod&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haxcod&amp;theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haxcod&amp;theme=tokyonight" width="48%" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haxcod&theme=tokyonight" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haxcod&theme=tokyonight&utcOffset=5.5" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haxcod&amp;theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haxcod&amp;theme=tokyonight&amp;utcOffset=5.5" width="48%" />
 
 </div>
 
@@ -367,15 +367,15 @@ flowchart LR
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Unacademy-Mentor-2563EB?style=for-the-badge&logo=academia&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Unacademy-Mentor-2563EB?style=for-the-badge&amp;logo=academia&amp;logoColor=white" /><br/>
       <sub>Educating the next generation of developers</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Anditita-Product_Creator-0EA5E9?style=for-the-badge&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Anditita-Product_Creator-0EA5E9?style=for-the-badge&amp;logoColor=white" /><br/>
       <sub>Make My Home — Real-world product launch</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Stack_Overflow-Contributor-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Stack_Overflow-Contributor-F58025?style=for-the-badge&amp;logo=stackoverflow&amp;logoColor=white" /><br/>
       <sub>Helping developers solve hard problems</sub>
     </td>
   </tr>
@@ -483,33 +483,33 @@ timeline
 
 <p>
   <a href="https://cal.com/haxcod/discovery">
-    <img src="https://img.shields.io/badge/Schedule_a_Discovery_Call-14B8A6?style=for-the-badge&logo=googlemeet&logoColor=white" />
+    <img src="https://img.shields.io/badge/Schedule_a_Discovery_Call-14B8A6?style=for-the-badge&amp;logo=googlemeet&amp;logoColor=white" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/iamashishrathour/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:ashishrathour.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
   </a>
 </p>
 
 <br/>
 
 <a href="https://www.buymeacoffee.com/haxcod">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&amp;logo=buy-me-a-coffee&amp;logoColor=black" />
 </a>
 &nbsp;
 <a href="https://github.com/sponsors/haxcod">
-  <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&amp;logo=github-sponsors&amp;logoColor=white" />
 </a>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer&amp;animation=fadeIn" />
 
 <div align="center">
 
