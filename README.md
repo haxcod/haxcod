@@ -1,522 +1,362 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Ashish%20Rathour&amp;fontSize=60&amp;fontAlign=50&amp;fontAlignY=40&amp;fontColor=ffffff&amp;desc=Full-Stack+and+Mobile+Engineer+%7C+Design-First+Developer+%7C+Product+Craftsman&amp;descAlign=50&amp;descAlignY=65&amp;descSize=16&amp;animation=fadeIn" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=50&amp;lines=Full-Stack+and+Mobile+Engineer;Design+Systems+%2B+DX+Obsessed;Building+AI-Enhanced+Interfaces;React+Native+%2B+Expo+Developer;Open-Source+Advocate+and+Mentor" alt="Typing SVG" />
-
-<br/><br/>
+<img width="100%" src="./assets/header.svg" alt="Ashish Rathour - terminal header" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=haxcod&amp;style=flat-square&amp;color=A78BFA&amp;label=Profile+Views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/haxcod?style=flat-square&amp;color=818CF8&amp;label=Followers&amp;logo=github&amp;logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/haxcod?style=flat-square&amp;color=C4B5FD&amp;label=Total+Stars&amp;logo=github&amp;logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=haxcod&style=flat-square&color=A78BFA&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/haxcod?style=flat-square&color=818CF8&label=Followers&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhaxcod&query=%24.public_repos&style=flat-square&color=C4B5FD&label=Public+Repos&logo=github&logoColor=white" />
 </p>
 
 <p>
-  <a href="https://mernfy.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/iamashishrathaur/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/23966934/" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&amp;logo=stackoverflow&amp;logoColor=white" />
-  </a>
-  <a href="mailto:ashishrathour.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
-  </a>
-  <a href="https://cal.com/haxcod/discovery" target="_blank">
-    <img src="https://img.shields.io/badge/Book_a_Call-14B8A6?style=for-the-badge&amp;logo=googlemeet&amp;logoColor=white" />
-  </a>
+<a href="https://mernfy.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/iamashishrathaur/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/23966934/"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+<a href="mailto:ashishrathour.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://cal.com/haxcod/discovery"><img src="https://img.shields.io/badge/Book_a_Call-14B8A6?style=for-the-badge&logo=googlemeet&logoColor=white" /></a>
 </p>
 
 <p>
-  <a href="#-who-am-i">Who Am I</a> &nbsp;·&nbsp;
-  <a href="#%EF%B8%8F-tech-arsenal">Tech Arsenal</a> &nbsp;·&nbsp;
-  <a href="#-featured-work">Featured Work</a> &nbsp;·&nbsp;
-  <a href="#-github-stats">GitHub Stats</a> &nbsp;·&nbsp;
-  <a href="#-achievements">Achievements</a> &nbsp;·&nbsp;
-  <a href="#-currently-learning--2026">Learning</a> &nbsp;·&nbsp;
-  <a href="#-lets-connect">Connect</a>
+<a href="#whoami">whoami</a> &nbsp;·&nbsp;
+<a href="#mindmap">mindmap</a> &nbsp;·&nbsp;
+<a href="#focus">focus-cycle</a> &nbsp;·&nbsp;
+<a href="#stack">stack</a> &nbsp;·&nbsp;
+<a href="#work">work</a> &nbsp;·&nbsp;
+<a href="#services">services</a> &nbsp;·&nbsp;
+<a href="#stats">stats</a> &nbsp;·&nbsp;
+<a href="#learning">learning</a> &nbsp;·&nbsp;
+<a href="#connect">connect</a>
 </p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+---
 
-## 🧠 Who Am I
-
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<a name="whoami"></a>
+## `~/ whoami`
 
 ```ts
-const ashish: Developer = {
-  pronouns : "he/him",
-  role     : "Full-Stack & Mobile Engineer",
-  location : "India 🇮🇳",
-  year     : 2026,
-
-  focus: [
-    "Design Systems",
-    "Developer Experience",
-    "AI-Enhanced Interfaces",
-    "Cross-Platform Mobile (React Native + Expo)",
-    "Product Engineering",
-  ],
-
-  currentlyBuilding: "AI-powered cross-platform apps with Expo SDK 52+",
-
-  stack: {
-    web      : ["React", "Next.js 15", "TypeScript", "Tailwind v4"],
-    mobile   : ["React Native", "Expo", "EAS Build", "Expo Router"],
-    backend  : ["Node.js", "Express", "GraphQL", "tRPC"],
-    database : ["MongoDB", "PostgreSQL", "Redis", "Supabase"],
-    ai       : ["OpenAI API", "LangChain", "Vercel AI SDK"],
-    devops   : ["Docker", "AWS", "GitHub Actions", "Vercel"],
+// profile.ts
+const ashish = {
+  role: "Full-stack & Mobile Engineer",
+  founder: "Haxcod Inc.", // product studio + services
+  owns: ["architecture", "backend", "frontend", "devops"],
+  mindset: ["design-first", "DX-obsessed", "ship > perfect"],
+  currently: {
+    building: "Haxcod Inc. agency site + SaaS/marketplace products",
+    exploring: ["AI-enhanced interfaces", "React Native + Expo"],
   },
-
-  philosophy: [
-    "Code is poetry — write it with intent",
-    "Design is empathy — build with users in mind",
-    "Shipping is everything — perfect is the enemy of done",
-  ],
-
-  funFact: "I debug with console.log() 🐛 and I am not ashamed",
-};
+  openTo: ["collabs", "freelance", "open-source", "mentoring"],
+  funFact: "Opens the terminal before opening Figma.",
+} as const;
 ```
 
-<br clear="right"/>
+---
 
-> *"I don't just write code — I craft digital products that solve real problems at the intersection of engineering excellence and human-centered design."*
+<a name="mindmap"></a>
+## `~/ mindmap`
 
-| 🎯 Building with Purpose | 🎨 Design Excellence | 📱 Mobile-First | 🚀 Product Mindset |
-|:---:|:---:|:---:|:---:|
-| Every line of code should solve a real problem | Beautiful, accessible interfaces are essential | Native-feel apps with React Native & Expo | Full cycle: ideation → build → ship → iterate |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## ⚔️ Tech Arsenal
-
-<div align="center">
-
-### 🖥️ Web Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### 📱 Mobile — React Native & Expo
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo_SDK_52-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Expo Router](https://img.shields.io/badge/Expo_Router-000020?style=for-the-badge&logo=expo&logoColor=white)
-![EAS Build](https://img.shields.io/badge/EAS_Build-4630EB?style=for-the-badge&logo=expo&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Reanimated](https://img.shields.io/badge/Reanimated_3-FF6584?style=for-the-badge&logo=react&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-
-### ⚙️ Backend & APIs
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
-### 🤖 AI & LLM Stack — 2026
-
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
-
-### 🗄️ Database & Cloud
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-### 🛠️ DevOps & Tooling
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🎨 Design & Prototyping
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
-
-</div>
-
-<br/>
-
-### 🗺️ Engineering Mindmap — 2026
+> How my brain is wired: one engineer, five surfaces.
 
 ```mermaid
 mindmap
-  root((Ashish Rathour))
-    Web
-      React + Next.js 15
-      TypeScript
-      Tailwind v4
-      Animations
+  root((Ashish))
+    Frontend
+      React
+      Next.js
+      Tailwind
+      Design Systems
+      Motion and Micro-interactions
+    Backend
+      Node and Express
+      MongoDB and Mongoose
+      REST APIs
+      Real-time Sockets
+      Multi-role Auth
     Mobile
       React Native
-      Expo SDK 52+
-      Expo Router
-      EAS Build + OTA
-    Backend
-      Node.js + Express
-      GraphQL + tRPC
-      REST + WebSockets
-      Auth + Security
-    AI Stack
-      OpenAI API
-      LangChain
-      Vercel AI SDK
-      RAG Pipelines
-    Data
-      MongoDB + PostgreSQL
-      Redis Caching
-      Supabase + Firebase
+      Expo
+      Offline-first Thinking
     DevOps
       Docker
-      AWS + Vercel
-      Turborepo + pnpm
-      CI/CD Pipelines
-    Craft
-      Product Thinking
-      UX Research
-      Technical Writing
-      Open Source
+      Nginx
+      CI and CD
+      Linux Servers
+    Product
+      PRD First
+      Marketplaces
+      SaaS Platforms
+      Haxcod Inc.
+    Exploring
+      AI Interfaces
+      Automation
+      Dev Tooling
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+---
 
-## 🚀 Featured Work
+<a name="focus"></a>
+## `~/ focus-cycle`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 MERNfy — Design & Engineering Lab</h3>
-      <p>A <strong>cutting-edge portfolio platform</strong> blurring the line between product and portfolio. Immersive UX, animated case studies, and interactive demos.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js_15-000?style=flat-square&amp;logo=next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" />
-        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&amp;logo=framer&amp;logoColor=white" />
-      </p>
-      <a href="https://mernfy.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" /></a>
-      <a href="https://github.com/haxcod"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&amp;logo=github" /></a>
-      <ul>
-        <li>⚡ Lighthouse 98/100 Performance</li>
-        <li>🎨 Custom design system, 40+ components</li>
-        <li>📱 Mobile-first, fully responsive</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📱 Mobile Apps — React Native + Expo</h3>
-      <p>Cross-platform <strong>mobile applications</strong> with Expo Router for file-based navigation and EAS for CI/CD builds and OTA updates.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&amp;logo=expo&amp;logoColor=white" />
-        <img src="https://img.shields.io/badge/EAS-4630EB?style=flat-square&amp;logo=expo&amp;logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" />
-      </p>
-      <a href="https://github.com/haxcod"><img src="https://img.shields.io/badge/View_Projects-181717?style=for-the-badge&amp;logo=github" /></a>
-      <ul>
-        <li>📲 Android & iOS from one codebase</li>
-        <li>🔄 OTA updates via EAS Update</li>
-        <li>🎞️ Smooth animations with Reanimated 3</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 AI-Powered Apps — 2026</h3>
-      <p>Building <strong>AI-enhanced web and mobile experiences</strong> using Vercel AI SDK, OpenAI APIs, and RAG pipelines for intelligent, context-aware products.</p>
-      <p>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&amp;logo=openai&amp;logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel_AI-000?style=flat-square&amp;logo=vercel&amp;logoColor=white" />
-      </p>
-      <a href="https://github.com/haxcod"><img src="https://img.shields.io/badge/Explore-181717?style=for-the-badge&amp;logo=github" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📦 Open Source Contributions</h3>
-      <p>Actively <strong>contributing to the ecosystem</strong> — triaging issues, merging PRs, writing documentation, and building community tools to improve DevEx.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=node.js&amp;logoColor=white" />
-      </p>
-      <a href="https://github.com/haxcod"><img src="https://img.shields.io/badge/All_Projects-181717?style=for-the-badge&amp;logo=github" /></a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### 🔄 Current Focus Cycle
+> The loop I run on every product. No step is optional, no step is forever.
 
 ```mermaid
 flowchart LR
-    A("AI-Enhanced UX") --> B("React Native + Expo")
-    B --> C("Edge + Serverless")
-    C --> D("Design Systems")
-    D --> E("Dev Tooling")
-    E --> A
+    A([Think]) --> B([Design])
+    B --> C([Build])
+    C --> D([Ship])
+    D --> E([Measure])
+    E --> F([Refine])
+    F --> A
 
-    style A fill:#312e81,color:#c7d2fe,stroke:#4f46e5
-    style B fill:#1e3a5f,color:#bfdbfe,stroke:#2563eb
-    style C fill:#1e1b4b,color:#a5b4fc,stroke:#4338ca
-    style D fill:#4a044e,color:#f5d0fe,stroke:#a21caf
-    style E fill:#450a0a,color:#fecaca,stroke:#dc2626
+    style A fill:#302b63,stroke:#A78BFA,color:#fff
+    style B fill:#302b63,stroke:#818CF8,color:#fff
+    style C fill:#302b63,stroke:#C4B5FD,color:#fff
+    style D fill:#14B8A6,stroke:#fff,color:#000
+    style E fill:#302b63,stroke:#818CF8,color:#fff
+    style F fill:#302b63,stroke:#A78BFA,color:#fff
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+```mermaid
+flowchart TD
+    subgraph DEEP["Deep Work Block"]
+        direction LR
+        P1["Plan the 1 thing"] --> P2["Notifications off"] --> P3["Build"] --> P4["Commit small"]
+    end
+    DEEP --> BR["Break - walk, water, no screen"]
+    BR --> RV["Review - what shipped?"]
+    RV -->|"next block"| DEEP
 
-## 📊 GitHub Stats
+    style DEEP fill:#0f0c29,stroke:#A78BFA,color:#fff
+    style BR fill:#14B8A6,stroke:#fff,color:#000
+    style RV fill:#302b63,stroke:#818CF8,color:#fff
+```
+
+---
+
+<a name="stack"></a>
+## `~/ stack`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=haxcod&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github" width="49%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=haxcod&amp;theme=tokyonight&amp;hide_border=true" width="49%" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxcod&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;langs_count=10&amp;exclude_repo=haxcod" width="50%" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=haxcod&amp;theme=tokyonight&amp;no-frame=true&amp;column=7&amp;margin-w=10" width="100%" alt="GitHub Trophies" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,redis,tailwind,docker,nginx,linux,git,figma,vercel&perline=8&theme=dark" />
 
 </div>
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+**Frontend**
+- React, Next.js
+- TypeScript
+- Tailwind CSS
+- Design systems
+
+</td>
+<td width="25%" valign="top">
+
+**Backend**
+- Node.js, Express
+- MongoDB, Mongoose
+- REST + real-time
+- Auth and roles
+
+</td>
+<td width="25%" valign="top">
+
+**Mobile**
+- React Native
+- Expo
+- Shared logic with web
+
+</td>
+<td width="25%" valign="top">
+
+**DevOps**
+- Docker, Nginx
+- Linux servers
+- CI/CD pipelines
+- Git workflows
+
+</td>
+</tr>
+</table>
+
+---
+
+<a name="work"></a>
+## `~/ featured-work`
+
+| Project | What it is | Under the hood |
+|---|---|---|
+| **Cemzo** | Construction services marketplace with a real-time dashboard | Node API, real-time layer, self-managed infra |
+| **VentureLauncher** · [venturelauncher.in](https://venturelauncher.in) | Startup / SaaS platform | Backend-heavy architecture, API-first |
+| **DealSpark** | Affiliate marketing site | Structured data model, roadmap-driven |
+| **Haxcod Inc.** | Agency website with its own design system | Theme-driven UI, PRD-first build |
+
+<!-- Add repo links: [repo](https://github.com/haxcod/<name>) -->
+
+### How a typical product ships
+
+```mermaid
+sequenceDiagram
+    autonumber
+    participant I as Idea
+    participant P as PRD
+    participant D as Data Model
+    participant A as API
+    participant U as UI
+    participant S as Server
+    I->>P: Write the problem down
+    P->>D: Schema and roles
+    D->>A: Endpoints and auth
+    A->>U: Components and flows
+    U->>S: Docker + Nginx deploy
+    S-->>I: Real users, real feedback
+```
+
+---
+
+<a name="services"></a>
+## `~/ haxcod-inc`
+
+<div align="center">
+
+**Product studio + services. Same engineers, two ways to work with us.**
+
+</div>
+
+| Build with us | Details |
+|---|---|
+| Web apps and SaaS | Dashboards, marketplaces, multi-role platforms |
+| Mobile apps | React Native + Expo, one codebase, two stores |
+| Backend and APIs | Clean architecture, real-time, scalable schemas |
+| DevOps | Dockerized deploys, Nginx, automated pipelines |
+| Design systems | Tokens, components, themes that stay consistent |
+
+<div align="center">
+<a href="https://cal.com/haxcod/discovery"><img src="https://img.shields.io/badge/Start_a_project-14B8A6?style=for-the-badge&logo=googlemeet&logoColor=white" /></a>
+</div>
+
+---
+
+## `~/ principles`
+
+```js
+const rules = {
+  "01": "Write the PRD before the first line of code.",
+  "02": "Schema first. Bad data models outlive good UIs.",
+  "03": "If it can be automated, it will be automated.",
+  "04": "Design is not a layer. It is the product.",
+  "05": "Small commits, fast deploys, honest metrics.",
+  "06": "Boring tech, interesting product.",
+};
+```
+
+---
+
+## `~/ git-journey`
+
+```mermaid
+gitGraph
+    commit id: "first HTML page"
+    commit id: "learn JS"
+    branch fullstack
+    commit id: "MERN stack"
+    commit id: "ship client work"
+    checkout main
+    merge fullstack
+    branch mobile
+    commit id: "React Native + Expo"
+    checkout main
+    merge mobile
+    branch haxcod
+    commit id: "found Haxcod Inc."
+    commit id: "product studio + services"
+    checkout main
+    merge haxcod tag: "now"
+```
+
+---
+
+<a name="stats"></a>
+## `~/ stats`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=haxcod&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=818CF8&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxcod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=c9d1d9" />
+
+<img src="https://streak-stats.demolab.com?user=haxcod&theme=tokyonight&hide_border=true&background=0f0c29&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=haxcod&bg_color=0f0c29&color=A78BFA&line=818CF8&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+### Achievement shelf
+
+```bash
+$ ./unlock --list
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/UNLOCKED-Founder_of_Haxcod_Inc.-A78BFA?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/UNLOCKED-Full--Stack_%2B_Mobile-818CF8?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/UNLOCKED-Architecture_to_DevOps-14B8A6?style=for-the-badge&logo=docker&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhaxcod&query=%24.public_repos&style=for-the-badge&color=302b63&label=PUBLIC+REPOS&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/followers/haxcod?style=for-the-badge&color=302b63&label=FOLLOWERS&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/LOCKED-Your_next_big_project-475569?style=for-the-badge&logo=lock&logoColor=white" />
+
+</div>
+
+---
+
+<a name="learning"></a>
+## `~/ currently-learning --2026`
+
+```diff
++ AI-enhanced interfaces (UX that feels alive, not gimmicky)
++ React Native + Expo, production-grade mobile
++ Design systems that scale across web + mobile
++ Automation and dev tooling
+- Over-engineering. (Deprecated.)
+- "I'll refactor later." (Deprecated.)
+```
+
+---
 
 <details>
-<summary><b>📈 Detailed Contribution Analytics</b></summary>
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haxcod&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="95%" alt="Activity Graph" />
+<summary><b>$ cat now.md</b> (what I'm on this month)</summary>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haxcod&amp;theme=tokyonight" width="95%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haxcod&amp;theme=tokyonight" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haxcod&amp;theme=tokyonight" width="48%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haxcod&amp;theme=tokyonight" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haxcod&amp;theme=tokyonight&amp;utcOffset=5.5" width="48%" />
-
-</div>
+- [x] Multi-role user schema (MongoDB + TypeScript)
+- [x] Real-time dashboards for a marketplace
+- [ ] Haxcod Inc. agency site: PRD, design system, theme direction
+- [ ] Ship, measure, refine. Repeat.
 
 </details>
 
-<br/>
+---
 
-<div align="center">
+<a name="connect"></a>
+## `~/ connect`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haxcod/haxcod/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haxcod/haxcod/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/haxcod/haxcod/output/github-snake-dark.svg" alt="GitHub Snake" />
-</picture>
+```bash
+$ curl -X POST https://cal.com/haxcod/discovery \
+    -d "topic=your idea" \
+    -d "response=within 24h"
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## 🏆 Achievements & Impact
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Unacademy-Mentor-2563EB?style=for-the-badge&amp;logo=academia&amp;logoColor=white" /><br/>
-      <sub>Educating the next generation of developers</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Anditita-Product_Creator-0EA5E9?style=for-the-badge&amp;logoColor=white" /><br/>
-      <sub>Make My Home — Real-world product launch</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Stack_Overflow-Contributor-F58025?style=for-the-badge&amp;logo=stackoverflow&amp;logoColor=white" /><br/>
-      <sub>Helping developers solve hard problems</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h2>🌟</h2>
-      <b>Open Source</b><br/>
-      <sub>Active Contributor</sub><br/>
-      <sub>PRs · Issues · Docs</sub>
-    </td>
-    <td align="center" width="25%">
-      <h2>👥</h2>
-      <b>Mentorship</b><br/>
-      <sub>Community Leader</sub><br/>
-      <sub>Unacademy Mentor</sub>
-    </td>
-    <td align="center" width="25%">
-      <h2>✍️</h2>
-      <b>Technical Writing</b><br/>
-      <sub>Knowledge Sharing</sub><br/>
-      <sub>Guides · Tutorials</sub>
-    </td>
-    <td align="center" width="25%">
-      <h2>🎤</h2>
-      <b>Public Speaking</b><br/>
-      <sub>Tech Evangelist</sub><br/>
-      <sub>Talks · Workshops</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## 📡 Currently Learning — 2026
-
-<div align="center">
-
-```diff
-@@  ── GROWTH ROADMAP 2026 ──  @@
-
-+ AI Agents & RAG Pipelines (LangChain, LlamaIndex, Embeddings)
-+ React Native New Architecture (JSI, Fabric, TurboModules)
-+ Expo SDK 52+ & EAS Workflows (OTA, Submissions, Previews)
-+ Edge Computing & Cloudflare Workers
-+ Serverless Architecture & Microservices Patterns
-+ Advanced Observability (OpenTelemetry, Grafana, Sentry)
-+ Design Tokens & Multi-platform Component Libraries
-+ Web3 Fundamentals & Decentralized Storage (IPFS)
-+ Testing Strategies: E2E (Maestro), Contract, Visual Regression
-- Tutorial Hell — always shipping real products
-- Chasing shiny tech without product validation
+> 200 OK  -  let's build something.
 ```
 
-</div>
-
-<br/>
-
-### 🧭 Engineering Growth Timeline
-
-```mermaid
-timeline
-    title Engineering Growth Path
-    2021 : HTML, CSS, JavaScript
-         : Built first React app
-    2022 : Node.js and Express APIs
-         : MongoDB and REST architecture
-    2023 : TypeScript adoption
-         : Next.js full-stack apps
-         : First open source contributions
-    2024 : GraphQL and real-time systems
-         : Docker and CI/CD pipelines
-         : Design systems and Figma mastery
-    2025 : React Native + Expo mobile apps
-         : AI/LLM integration
-         : Mentoring and building in public
-    2026 : Expo New Architecture
-         : AI Agents and RAG pipelines
-         : Cross-platform product studio
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## 💬 Let's Connect
-
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">🚀<br/><b>Product Dev</b><br/><sub>Web and Mobile at scale</sub></td>
-    <td align="center">🎯<br/><b>Consulting</b><br/><sub>Architecture and DevEx audits</sub></td>
-    <td align="center">🎤<br/><b>Speaking</b><br/><sub>Conferences and workshops</sub></td>
-    <td align="center">🌱<br/><b>Mentorship</b><br/><sub>Junior to Senior growth</sub></td>
-    <td align="center">💡<br/><b>Open Source</b><br/><sub>Impactful community OSS</sub></td>
-  </tr>
-</table>
+**Got a product idea, a messy codebase, or a design that needs engineering? Let's talk.**
 
-<br/>
-
-<p>
-  <a href="https://cal.com/haxcod/discovery">
-    <img src="https://img.shields.io/badge/Schedule_a_Discovery_Call-14B8A6?style=for-the-badge&amp;logo=googlemeet&amp;logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/iamashishrathour/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:ashishrathour.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
-  </a>
-</p>
-
-<br/>
-
-<a href="https://www.buymeacoffee.com/haxcod">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&amp;logo=buy-me-a-coffee&amp;logoColor=black" />
-</a>
-&nbsp;
-<a href="https://github.com/sponsors/haxcod">
-  <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&amp;logo=github-sponsors&amp;logoColor=white" />
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer&amp;animation=fadeIn" />
-
-<div align="center">
-
-<sub>Crafted with passion, precision, and too much coffee — <b>2026</b></sub>
-
-<sub>Auto-updated via <b>GitHub Actions</b> · Snake graph generated nightly</sub>
-
-<sub>Found this useful? Drop a star on my repos — it means the world!</sub>
+<img width="100%" src="./assets/footer.svg" alt="exit 0 - thanks for stopping by" />
 
 </div>
